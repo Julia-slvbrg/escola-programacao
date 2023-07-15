@@ -35,7 +35,7 @@ O projeto frontend que consiste em um site para uma escola de programação, pos
 
 ## Demonstração
 
-[Link Demonstração (deploy)] (https://wakeful-substance.surge.sh/)
+[Link Demonstração] (https://wakeful-substance.surge.sh/)
 
 ## Como rodar o projeto
 ```bash
