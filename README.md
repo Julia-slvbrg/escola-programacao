@@ -37,6 +37,12 @@ O projeto frontend que consiste em um site para uma escola de programação, pos
 [Link Demonstração (deploy)] (https://wakeful-substance.surge.sh/)
 
 
+https://github.com/Julia-slvbrg/projeto-intro-web-js/assets/114543081/aae819ed-50fd-4418-b777-67183c27c143
+
+https://github.com/Julia-slvbrg/projeto-intro-web-js/assets/114543081/7d23d6cc-2b81-4590-8fc1-2f8b3a7bf5a4
+
+https://github.com/Julia-slvbrg/projeto-intro-web-js/assets/114543081/55467e4c-aba7-4f25-8daa-8280624647db
+
 
 ## Como rodar o projeto
 ```bash
