@@ -34,7 +34,7 @@ O projeto frontend que consiste em um site para uma escola de programação, pos
 ![Financeiro](./midias/readme/relatorio.png)
 
 ## Demonstração
-![Link Demonstração (deploy)] (https://wakeful-substance.surge.sh/)
+[Link Demonstração (deploy)](https://wakeful-substance.surge.sh/)
 
 
 https://github.com/Julia-slvbrg/projeto-intro-web-js/assets/114543081/aae819ed-50fd-4418-b777-67183c27c143
